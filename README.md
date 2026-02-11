@@ -1,16 +1,36 @@
-## Hi there 👋
+## 🌙 hey, i'm Ankit
 
-<!--
-**ankitchaubey1410/ankitchaubey1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+code • create • repeat
+turning caffeine into clean code since ∞
+```
 
-Here are some ideas to get you started:
+### ✨ about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 romanticizing late-night coding & dark mode
+* 🌱 currently growing into a better developer every day
+* 🎧 debugging life with music & silence
+* ♟️ thinking in logic, dreaming in code
+
+### 🚧 currently building
+
+```txt
+something cool, something meaningful, something mine.
+```
+
+### 🛠️ tools i vibe with
+
+```txt
+⚡ vscode  •  🐧 linux  •  🌿 git  •  ☕ coffee  •  🎧 spotify
+```
+
+### 📫 reach me
+
+```txt
+github: @ankitchaubey1410
+mail: ankitchaubey1421@email.com
+```
+
+---
+
+> *"lost in the terminal, found in the universe of code."* ✨
