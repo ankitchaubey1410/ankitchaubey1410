@@ -33,5 +33,9 @@ instagram: @_why_ankitt
 ---
 
 > *"lost in the terminal, found in the universe of code."* ✨
-
-<img src="HONEYBUNNY.gif" width="150" />
+<!-- <img src="HONEYBUNNY.gif" width="150" /> -->
+<!-- <img src="WINTERBUNNY.gif" height="150" /> -->
+<div style="display: flex; gap: 10px; align-items: flex-end;">
+  <img src="HONEYBUNNY.gif" width="150" />
+  <img src="WINTERBUNNY.gif" height="151" />
+</div>
