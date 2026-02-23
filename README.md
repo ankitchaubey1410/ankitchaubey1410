@@ -33,3 +33,5 @@ instagram: @_why_ankitt
 ---
 
 > *"lost in the terminal, found in the universe of code."* ✨
+
+<img src="HONEYBUNNY.gif" align="right" width="150" />
