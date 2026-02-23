@@ -33,5 +33,3 @@ instagram: @_why_ankitt
 ---
 
 > *"lost in the terminal, found in the universe of code."* ✨
-
-<video src="HoneyBunny.mp4" controls width="600" autoplay muted loop></video>
