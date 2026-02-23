@@ -3,7 +3,7 @@
 code • create • repeat
 turning caffeine into clean code since ∞
 ```
-<img src="baby.gif" align="right" width="150" />
+<!-- <img src="baby.gif" align="right" width="150" /> -->
 ### ✨ about me
 
 * 💻 romanticizing late-night coding & dark mode
@@ -27,6 +27,7 @@ something cool, something meaningful, something mine.
 ```txt
 github: @ankitchaubey1410
 mail: ankitchaubey1421@email.com
+instagram: @_why_ankitt
 ```
 
 ---
