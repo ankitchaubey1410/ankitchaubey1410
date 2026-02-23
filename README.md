@@ -1,10 +1,9 @@
 ## 🌙 hey, i'm Ankit
-
 ```txt
 code • create • repeat
 turning caffeine into clean code since ∞
 ```
-
+<img src="baby.gif" align="right" width="150" />
 ### ✨ about me
 
 * 💻 romanticizing late-night coding & dark mode
@@ -13,7 +12,6 @@ turning caffeine into clean code since ∞
 * ♟️ thinking in logic, dreaming in code
 
 ### 🚧 currently building
-
 ```txt
 something cool, something meaningful, something mine.
 ```
