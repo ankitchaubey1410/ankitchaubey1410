@@ -28,6 +28,8 @@ something cool, something meaningful, something mine.
 github: @ankitchaubey1410
 mail: ankitchaubey1421@email.com
 instagram: @_why_ankitt
+takeuforward.org/profile/_why_ankitt
+www.linkedin.com/in/ankit-chaubey-24486836a
 ```
 
 ---
